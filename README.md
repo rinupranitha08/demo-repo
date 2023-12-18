@@ -1,2 +1,3 @@
 #demo
-Today is monday
+Today is monday.
+Tomorrow is tuesday.
